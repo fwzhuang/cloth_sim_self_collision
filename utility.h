@@ -54,7 +54,6 @@ inline double TriArea3D
 
 
 // compute unitnomal and area of a triangle
-// 三角形の単位法線ベクトルを求める
 inline void  UnitNormalAreaTri3D
 (double n[3], // unit normal
  double& a, // area

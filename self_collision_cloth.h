@@ -17,7 +17,7 @@
 
 
 
-// 衝突が解消された中間速度を返す
+// 返回解决碰撞的中间速度
 void GetIntermidiateVelocityContactResolved
 (std::vector<double>& aUVWm,
  bool& is_impulse_applied,

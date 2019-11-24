@@ -27,7 +27,7 @@ int MakeBVHTopology_TopDown
  const std::vector<double>& aXYZ,
  std::vector<CNodeBVH>& aNodeBVH);
 
-// BVHのBounding Boxを構築
+// 建立BVH边界框
 void BuildBoundingBoxChild_Prx
 (int ibvh,
  double delta,
